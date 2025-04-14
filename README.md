@@ -61,5 +61,5 @@ bentoml build -f ./bentofile.yaml
 Once the Bento is built, containerize it as a Docker image for deployment:
 
 ```bash
-bentoml containerize river_arf_model:latest
+bentoml containerize river_online_learner:latest
 ```
