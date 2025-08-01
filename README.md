@@ -1,4 +1,4 @@
-# Serving a model from river with BentoML 
+# Training and Serving a model from river with BentoML 
 
 This project shows how to train a model using river online machine learning library [river](https://riverml.xyz/latest/)
 and log the model using MLflow's custom python function 
